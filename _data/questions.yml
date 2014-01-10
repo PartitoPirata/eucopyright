@@ -589,6 +589,7 @@
     pl: "Niezależnie od powyższych pytań, czy istnieje potrzeba uwzględnienia większej elastyczności w strukturze regulacyjnej Unii Europejskiej w zakresie ograniczeń i wyjątków?"
     en: "Independently from the questions above, is there a need to provide for a greater degree of flexibility in the EU regulatory framework for limitations and exceptions?"
     de: "Unabhängig von den letzten beiden Fragen, sollen die europäischen Regeln zu Ausnahmen vom Urheberrecht flexibler gestaltet werden?"
+    it: "Indipendentemente dalle questioni sopraccitate, vi è la necessità di prevedere un maggior grado di flessibilità nel quadro normativo dell'UE per le limitazioni ed eccezioni?"
   to: everyone
   type: multiple_choice
   options:
@@ -623,6 +624,7 @@
   text:
     pl: "Jeśli tak, w jaki sposób najlepiej byłoby uwzględnić taką elastyczność? (np. interpretacja sądów pastwowych i Trybunału Sprawiedliwości, okresowe rewizje dyrektyw, interpretacje Komisji Europejskiej, wbudowana elastyczność, np. w formie fair use lub fair dealing / otwartej normy, itp.)? Proszę wyjaśnić, wskazując na relatywne zalety i wady takiego podejścia, a także jego potencjalny wpływ na funkcjonowanie Rynku Wewnętrznego."
     en: "If yes, what would be the best approach to provide for flexibility? (e.g. interpretation by national courts and the ECJ, periodic revisions of the directives, interpretations by the Commission, built-in flexibility, e.g. in the form of a fair-use or fair dealing provision / open norm, etc.)? Please explain indicating what would be the relative advantages and disadvantages of such an approach as well as its possible effects on the functioning of the Internal Market."
+    it: "Se sì, quale sarebbe il metodo migliore per fornire flessibilità? (Ad esempio, l'interpretazione da parte dei giudici nazionali e la Corte di giustizia, periodiche revisioni delle direttive, interpretazioni da parte della Commissione, flessibilità built-in; ipoteticamente sotto forma di un equo uso o disposizione di fair dealing/norme aperte, ecc...)? Spiegate, indicando quali sarebbero i vantaggi e gli svantaggi di tale approccio, così come i possibili effetti sul funzionamento del mercato interno."
   to: everyone
   type: open_question
   odf:
@@ -635,6 +637,7 @@
   text:
     pl: "Czy na podstawie Państwa doświadczenia, terytorialny zakres ograniczeń i wyjątków stanowi problem?"
     en: "Does the territoriality of limitations and exceptions, in your experience, constitute a problem?"
+    it: "La territorialità delle limitazioni ed eccezioni, nella tua esperienza, costituisce un problema?"
   to: everyone
   type: multiple_choice
   options:
@@ -669,6 +672,7 @@
   text:
     pl: 'Jeżeli ograniczenia i wyjątki ustanowione na poziomie krajowym miałyby być skuteczne za granicą, w jaki sposób powinno się uregulować kwestię "słusznej rekompensaty", jeżeli taka rekompensata jest częścią wyjątku? (np. kto płaci komu, gdzie?)'
     en: "In the event that limitations and exceptions established at national level were to have cross-border effect, how should the question of “fair compensation” be addressed, when such compensation is part of the exception? (e.g. who pays whom, where?)"
+    it: 'Nel caso in cui le limitazioni e le eccezioni stabilite a livello nazionale avessero effetti internazionali, come si dovrebbe affrontare la questione di "equo compenso" quando tale compensazione è parte dell'eccezione? (Ad esempio, chi paga chi, dove?)'
   to: everyone
   type: open_question
   odf:
@@ -683,6 +687,9 @@
     en: |
       (a) [In particular if you are an institutional user:] Have you experienced specific problems when trying to use an exception to preserve and archive specific works or other subject matter in your collection?
       (b) [In particular if you are a right holder:] Have you experienced problems with the use by libraries, educational establishments, museum or archives of the preservation exception?
+    it: |
+      (a) [In particolare, se siete un utente istituzionale:] Avete sperimentato problemi specifici tentando di applicare una deroga per conservare e archiviare opere specifiche o di altri temi nella vostra collezione?
+      (b) [In particolare, se siete titolare del diritto:] Avete avuto problemi con l'utilizzo da parte di biblioteche, istituti di istruzione, musei o archivi circa eccezioni di conservazione?
   to: switch
   type: multiple_choice
   options:
@@ -710,6 +717,7 @@
   text:
     pl: "Jeśli pojawiają się problemy, w jaki sposób najlepiej je rozwiązać?"
     en: "If there are problems, how would they best be solved?"
+    it: "Se ci fossero problemi, come dovrebbero venir risolti?"
   to: everyone
   type: open_question
   odf:
@@ -722,6 +730,7 @@
   text:
     pl: "Jeśli uważają Państwo, że potrzebne jest rozwiązanie legislacyjne, jakie byłyby jego główne elementy? Jakie aktywności instytucji-beneficjentów powinno ono obejmować i na jakich warunkach?"
     en: "If your view is that a legislative solution is needed, what would be its main elements? Which activities of the beneficiary institutions should be covered and under which conditions?"
+    it: "Se il vostro punto di vista è che sia necessaria una soluzione legislativa, quale sarebbero i suoi elementi principali? Quali attività delle istituzioni beneficiarie dovrebbero essere coperti e sotto quali condizioni?"
   to: everyone
   type: open_question
   odf:
@@ -734,6 +743,7 @@
   text:
     pl: "Jeśli uważają Państwo, że potrzebne jest rozwiązanie innego rodzaju, jakie ono by było?"
     en: "If your view is that a different solution is needed, what would it be?"
+    it: "Se il vostro punto di vista è che sia necessaria una soluzione diversa, quale sarebbe?"
   to: everyone
   type: open_question
   odf:
@@ -752,6 +762,10 @@
       (a) [In particular if you are an institutional user:] Have you experienced specific problems when trying to negotiate agreements with rights holders that enable you to provide remote access, including across borders, to your collections (or parts thereof) for purposes of research and private study?
       (b) [In particular if you are an end user/consumer:] Have you experienced specific problems when trying to consult, including across borders, works and other subject-matter held in the collections of institutions such as universities and national libraries when you are not on the premises of the institutions in question?
       (c) [In particular if you are a right holder:] Have you negotiated agreements with institutional users that enable those institutions to provide remote access, including across borders, to the works or other subject-matter in their collections, for purposes of research and private study?
+    it: |
+      (a) [In particolare, se siete un utente istituzionale:] Avete avuto problemi specifici negoziando accordi con i titolari dei diritti che consentono di fornire accesso remoto, anche a livello transfrontaliero, per le vostre collezioni (o loro parti) a fini di ricerca e studio privato?
+      (b) [In particolare, se siete un utente finale/consumatore:] Avete riscontrato problemi specifici consultando, anche a livello transfrontaliero, opere e altri materiali protetti conservati nelle collezioni di istituzioni quali università e biblioteche nazionali quando non nei locali delle istituzioni in questione?
+      (c) [In particolare, se siete un titolare del diritto:] Avete negoziato accordi con utenti istituzionali che consentono a tali istituzioni di fornire accesso remoto, anche a livello transfrontaliero, a opere o altro materiali, nelle loro collezioni, a fini di ricerca e studio privato?
   to: switch
   type: open_question
   odf:
@@ -764,6 +778,7 @@
   text:
     pl: "Jeśli pojawiają się problemy, w jaki sposób najlepiej je rozwiązać?"
     en: "If there are problems, how would they best be solved?"
+    it: "Se ci fossero problemi, come dovrebbero venir risolti?"
   to: everyone
   type: open_question
   odf:
@@ -776,6 +791,7 @@
   text:
     pl: "Jeśli uważają Państwo, że potrzebne jest rozwiązanie ustawowe, jakie byłyby jego główne elementy? Jakie aktywności instytucji-beneficjentów powinno ono obejmować i na jakich warunkach?"
     en: "If your view is that a legislative solution is needed, what would be its main elements? Which activities of the beneficiary institutions should be covered and under which conditions?"
+    it: "Se il vostro punto di vista è che sia necessaria una soluzione legislativa, quale sarebbero i suoi elementi principali? Quali attività delle istituzioni beneficiarie dovrebbero essere coperte e a quali condizioni?"
   to: everyone
   type: open_question
   odf:
