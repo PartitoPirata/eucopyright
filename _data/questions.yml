@@ -500,6 +500,7 @@
     pl: "Czy fakt, że większość organiczeń i wyjątków ustanowionych przez dyrektywy unijne dotyczące prawa autorskiego jest opcjonalna dla krajów członkowskich, stanowi źródło problemów?"
     en: Are there problems arising from the fact that most limitations and exceptions provided in the EU copyright directives are optional for the Member States?
     de: "Werden aufgrund der Tatsache, dass die Einschränkungen und Ausnahmen in den EU-Richtlininen für die Mitgliedsstaaten auf Freiwilligkeit basieren, Probleme entstehen?"
+    it: "Esistono problemi derivanti dal fatto che la maggior parte delle limitazioni e delle eccezioni previste nelle direttive comunitarie sul diritto d'autore sono facoltative per gli Stati membri?"
   to: everyone
   type: multiple_choice
   options:
@@ -537,6 +538,7 @@
     pl: "Czy niektóre/wszystkie wyjątki powinny być obowiązkowe i jeśli tak, czy istnieje potrzeba większej harmonizacji takich wyjątków?"
     en: "Should some/all of the exceptions be made mandatory and, if so, is there a need for a higher level of harmonisation of such exceptions?"
     de: "Sollen einige oder alle Ausnahmen vom Urheberrecht verpflichtend in allen Mitgliedstaaten gelten? Wenn ja, sollen diese Ausnahmen in allen Ländern gleich ausgestaltet werden?"
+    it: "Se alcune/tutte le eccezioni fossero rese obbligatorie ci sarebbe la necessità di un più elevato livello di armonizzazione tra loro?"
   to: everyone
   type: multiple_choice
   options:
@@ -573,6 +575,7 @@
     pl: "Czy nowe ograniczenia i wyjątki powinny zostać dodane lub usunięte z istniejącego katalogu? Proszę uzasadnić, nawiązując do poszczególnych przypadków."
     en: "Should any new limitations and exceptions be added to or removed from the existing catalogue? Please explain by referring to specific cases"
     de: "Sollten neue Schranken und Ausnahmen vom Urheberrecht eingeführt werden? Bitte nenne konkrete Beispiele."
+    it: "Qualsiasi nuova limitazione e eccezione dovrebbe essere aggiunta o rimossa dal catalogo esistente? Spiegate facendo riferimento a casi specifici"
   to: everyone
   type: open_question
   odf:
