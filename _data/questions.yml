@@ -272,6 +272,7 @@
     pl: "Czy podanie hiperłącza odnoszącego do utworu lub innego przedmiotu chronionego prawem autorskim, czy generalnie czy w specyficznych okolicznościach, powinno wymagać zezwolenia posiadacza praw?"
     en: "Should the provision of a hyperlink leading to a work or other subject matter protected under copyright, either in general or under specific circumstances, be subject to the authorisation of the rightholder?"
     de: "Sollte das Bereitstellen eines Hyperlinks, welcher zu einem urheberrechtlich geschützten Werk oder anderen Gegenstand führt, entweder im Allgemeinen oder unter bestimmten Umständen die Erlaubnis des Rechteinhabers erfordern?"
+    it: "La fornitura di un collegamento ipertestuale che porta a un'opera o ad altro materiale protetto dal diritto d'autore, sia in generale che in determinate circostanze, dovrebbe essere soggetta all'autorizzazione del titolare del diritto?"
   to: everyone
   type: multiple_choice
   options:
@@ -308,6 +309,7 @@
     pl: "Czy przeglądanie strony internetowej, jeśli wiąże się to z dostępem do tymczasowej reprodukcji utworu lub innego przedmiotu chronionego prawem autorskim na ekranie i w pamięci podręcznej komputera użytkownika, czy generalnie czy w specyficznych okolicznościach,  powinno wymagać zezwolenia posiadacza praw?"
     en: "Should the viewing of a web-page where this implies the temporary reproduction of a work or other subject matter protected under copyright on the screen and in the cache memory of the user’s computer, either in general or under specific circumstances, be subject to the authorisation of the rightholder?"
     de: "Soll das Betrachten einer Website, was ja bedeutet, dass urheberrechtsgeschützer Websiteinhalt kurzzeitig reproduziert werden könnte auf den Bildschirm oder in den Cache, entweder generell oder in bestimmten Fällen nur mit Erlaubnis des Rechteinhabers möglich sein?"
+    it: "La visualizzazione di una pagina web che implica la riproduzione temporanea di un'opera o di altro materiale protetto dal diritto d'autore, su schermo o in memoria cache, sia in generale che in determinate circostanze, dovrebbe essere soggetta ad autorizzazione del titolare del diritto?"
   to: everyone
   type: multiple_choice
   options:
@@ -345,6 +347,7 @@
     pl: "[W szczególności, jeśli są Państwo użytkownikami końcowymi/konsumentami:] Czy spotkali się Państwo z ograniczeniami przy próbie odsprzedania plików cyfrowych, który zostały wcześniej nabyte (np. pliki mp3, e-booki)?"
     en: "Have you faced restrictions when trying to resell digital files that you have purchased (e.g. mp3 file, e-book)?"
     de: "Warst du beim Versuch des Weiterverkaufs digitaler Dateien (z. B. MP3-Dateien, eBooks), die du zuvor erworben hattest, mit Einschränkungen konfrontiert?"
+    it: "Avete incontrato restrizioni rivendendo file digitali che avete acquistato (ad esempio file mp3, e-book)?"
   to: end user/consumer
   type: multiple_choice
   options:
@@ -372,6 +375,7 @@
   text:
     pl: "[W szczególności, jeśli są Państwo posiadaczami praw autorskich lub dostarczają usługi online:] Jakie byłyby konsekwencje stworzenia systemu prawnegoj pozwalającego na odsprzedawanie wcześniej nabytych cyfrowych treści? Proszę określić rodzaj rynku (rodzaj treści)."
     en: What would be the consequences of providing a legal framework enabling the resale of previously purchased digital content? Please specify per market (type of content) concerned.
+    it: "Quali sarebbero le conseguenze di un quadro giuridico che consenta la rivendita di contenuto digitale acquistato in precedenza? Siete pregati di specificare il mercato (tipo di contenuto) in questione."
   to: "right holder, service provider"
   type: open_question
   odf:
@@ -384,6 +388,7 @@
   text:
     pl: "Czy stworzenie systemu rejestracji na poziomie europejskim pomogłoby w identyfikacji i licencjonowaniu utworów i innych przedmiotów prawa autorskiego?"
     en: Would the creation of a registration system at EU level help in the identification and licensing of works and other subject matter?
+    it: "La realizzazione di un sistema di registrazione a livello comunitario sarebbe d'aiuto nell'identificazione e nel licenziamento di opere e altri materiali?"
   to: everyone
   type: multiple_choice
   options:
@@ -404,6 +409,7 @@
   text:
     pl: "Jakie byłyby potencjalne zalety takiego systemu?"
     en: What would be the possible advantages of such a system?
+    it: "Quali sarebbero i possibili vantaggi di un tale sistema?"
   to: everyone
   type: open_question
   odf:
@@ -416,6 +422,7 @@
   text:
     pl: "Jakie byłyby potencjalne wady takiego systemu?"
     en: What would be the possible disadvantages of such a system?
+    it: "Quali sarebbero i possibili svantaggi di un tale sistema?"
   to: everyone
   type: open_question
   odf:
@@ -428,6 +435,7 @@
   text:
     pl: "Jakie mogłaby być motywacja do rejestrowania utworów przez posiadaczy praw?"
     en: What incentives for registration by rightholders could be envisaged?
+    it: "Quali incentivi per la registrazione da parte dei titolari potrebbero essere previsti?"
   to: everyone
   type: open_question
   odf:
@@ -440,6 +448,7 @@
   text:
     pl: "Jaka powinna być rola Unii Europejskiej w promowaniu upowszechnienia się identyfikatorów w sektorze kreatywnym i w promowaniu rozwoju oraz interoperacyjności baz danych o uprawnionych oraz udzielonych licencjach"
     en: "What should be the role of the EU in promoting the adoption of identifiers in the content sector, and in promoting the development and interoperability of rights ownership and permissions databases?"
+    it: "Quale dovrebbe essere il ruolo dell'UE nel promuovere l'adozione di identificatori nel settore dei contenuti e nel promuovere lo sviluppo e l'interoperabilità delle banche dati di diritti e autorizzazioni?"
   to: everyone
   type: open_question
   odf:
@@ -453,6 +462,7 @@
     pl: "Czy obecne terminy ochrony prawnoautorskiej są wciąż odpowiednie w kontekście środowiska cyfrowego?"
     en: Are the current terms of copyright protection still appropriate in the digital environment?
     de: Sind die Längen der Schutzfristen im digitalen Zeitalter noch zeitgemäß?
+    it: "L'attuale protocollo di protezione del copyright è ancora idoneo all'ambiente digitale?"
   to: everyone
   type: multiple_choice
   options:
