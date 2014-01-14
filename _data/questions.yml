@@ -804,6 +804,7 @@
   text:
     pl: "Jeśli uważają Państwo, że potrzebne jest rozwiązanie innego rodzaju, jakie ono by było?"
     en: "If your view is that a different solution is needed, what would it be?"
+    it: "Se il vostro punto di vista è che sia necessaria una soluzione diversa, quale sarebbe?"
   to: everyone
   type: open_question
   odf:
@@ -822,6 +823,10 @@
       (a) [In particular if you are a library:] Have you experienced specific problems when trying to negotiate agreements to enable the electronic lending (e-lending), including across borders, of books or other materials held in your collection?
       (b) [In particular if you are an end user/consumer:] Have you experienced specific problems when trying to borrow books or other materials electronically (e-lending), including across borders, from institutions such as public libraries?
       (c) [In particular if you are a right holder:] Have you negotiated agreements with libraries to enable them to lend books or other materials electronically, including across borders?
+    it: |
+      (a) [In particolare se rappresentate una biblioteca:] Avete avuto problemi specifici negoziando accordi per consentire il prestito elettronico (e-lending), anche a livello transfrontaliero, di libri o altri materiali presenti nella vostra collezione?
+      (b) [In particolare, se siete un utente finale/consumatore:] Avete avuto problemi specifici prendendo in prestito libri o altro materiale elettronico (e-lending), anche al di là dei confini, da istituzioni come biblioteche pubbliche?
+      (c) [In particolare, se siete un titolare del diritto:] Avete negoziato accordi con biblioteche per consentire loro di prestare libri o altro materiale elettronico, anche a livello transfrontaliero?
   to: switch
   type: multiple_choice
   options:
@@ -849,6 +854,7 @@
   text:
     pl: "Jeśli pojawiają się problemy, w jaki sposób najlepiej je rozwiązać?"
     en: "If there are problems, how would they best be solved?"
+    it: "Se ci fossero problemi, come dovrebbero venir risolti?"
   to: everyone
   type: open_question
   odf:
@@ -861,6 +867,7 @@
   text:
     pl: "[W szczególności, jeśli są Państwo użytkownikami instytucjonalnymi:] Jakie widzą Państwo różnice w zarządzaniu kolekcjami fizycznie istniejącymi i kolekcjami online, z uwzględnieniem zapewnienia dostępu do nich Państwa subskrybentom? Jakie napotkali Państwo problemy?"
     en: "What differences do you see in the management of physical and online collections, including providing access to your subscribers? What problems have you encountered?"
+    it: "Quali differenze vedete nella gestione delle collezioni fisiche e online, oltre al fornire l\'accesso ai vostri abbonati? Quali problemi avete incontrato?"
   to: institutional user
   type: open_question
   odf:
@@ -873,6 +880,7 @@
   text:
     pl: "[W szczególności, jeśli są Państwo posiadaczami praw autorskich:] Jakie widzą Państwo różnice między tradycyjną działalnością bibliotek taką jak korzystanie z kolekcji na miejscu lub wypożyczanie i działalnością zdalną (online, z daleka) taką jak zdalne korzystanie z kolekcji i e-wypożyczanie? Jakie napotkali Państwo problemy?"
     en: "What difference do you see between libraries’ traditional activities such as on-premises consultation or public lending and activities such as off-premises (online, at a distance) consultation and e-lending? What problems have you encountered?"
+    it: "Che differenza vedete tra le attività tradizionali delle biblioteche come la consultazione in loco o il prestito e attività fuori sede (on-line, a distanza), la consultazione e l\'e-lending? Quali problemi avete incontrato?"
   to: right holder
   type: open_question
   odf:
@@ -885,6 +893,7 @@
   text:
     pl: "[W szczególności, jeśli są Państwo użytkownikami instytucjonalnymi zaangażowanymi bądź pragnącymi zaagażować się w projekty masowej digitalizacji, posiadaczami praw autorskich, przedstawicielami organizacji zbiorowego zarządzania:] Czy w Państwa kraju byłoby konieczne wydanie przepisów prawnych, aby zapewnić, że rezultaty Porozumienia z 2001 r. (tj. umów zawartych pomiędzy bibliotekami i organizacjami zbiorowego zarządzania) są skuteczne transgranicznie, aby w całej Europie zapewnić dostęp do utworów niedostępnych w handlu?"
     en: "Would it be necessary in your country to enact legislation to ensure that the results of the 2011 MoU (i.e. the agreements concluded between libraries and collecting societies) have a cross-border effect so that out of commerce works can be accessed across the EU?"
+    it: "Sarebbe necessario nel vostro Paese promulgare una legge per garantire che i risultati del MoU 2011 (cioè gli accordi conclusi tra biblioteche e società di gestione collettiva) abbiano un effetto transfrontaliero garantendo che le opere fuori commercio possano essere consultate in UE?"
   to: "institutional user, engaging or wanting to engage in mass digitalisation, a right holder, collective management organisation"
   type: multiple_choice
   options:
@@ -920,6 +929,7 @@
   text:
     pl: "Czy byłoby konieczne rozwijanie mechanizmów poza juz wypracowanymi dla innych typów treści (np. kolekcjami audio- i audiowizualnymi, archiwami nadawców)?"
     en: "Would it be necessary to develop mechanisms, beyond those already agreed for other types of content (e.g. for audio- or audio-visual collections, broadcasters’ archives)?"
+    it: Sarebbe necessario sviluppare meccanismi, oltre a quelli già concordati per altri tipi di contenuto (ad esempio, raccolte audio o audio-visive, archivi di emittenti)?
   to: everyone
   type: multiple_choice
   options:
@@ -960,6 +970,9 @@
     en: |
       (a) [In particular if you are an end user/consumer or an institutional user:] Have you experienced specific problems when trying to use works or other subject-matter for illustration for teaching, including across borders?
       (b) [In particular if you are a right holder:] Have you experienced specific problems resulting from the way in which works or other subject-matter are used for illustration for teaching, including across borders?
+    it: |
+      (a) [In particolare, se siete un utente finale/consumatore o un utente istituzionale:] Avete riscontrato problemi specifici utilizzando opere o altri materiali per l'insegnamento? Anche a livello transfrontaliero?
+      (b) [In particolare, se siete titolare del diritto:] Avete riscontrato problemi specifici derivanti dal modo in cui opere o altro materiale vengono utilizzati per l'insegnamento? Anche a livello transfrontaliero?
   to: switch
   type: multiple_choice
   options:
@@ -988,6 +1001,7 @@
   text:
     pl: "Jeśli pojawiają się problemy, w jaki sposób najlepiej je rozwiązać?"
     en: "If there are problems, how would they best be solved?"
+    it: Se ci fossero problemi, come dovrebbero venir risolti?
   to: everyone
   type: open_question
   odf:
@@ -1000,6 +1014,7 @@
   text:
     pl: "Jakie mechanizmy rynkowe ułatwiają korzystanie z treści w ramach nauczania? W jakim stopniu są one skuteczne?"
     en: What mechanisms exist in the market place to facilitate the use of content for illustration for teaching purposes? How successful are they?
+    it: "Quali meccanismi esistono sul mercato per facilitare l'utilizzo dei contenuti per l'illustrazione a fini didattici? Quanto sono utili?"
   to: everyone
   type: open_question
   odf:
@@ -1012,6 +1027,7 @@
   text:
     pl: "Jeśli uważają Państwo, że potrzebne jest rozwiązanie ustawowe, jakie byłyby jego główne elementy?  Jakie aktywności instytucji-beneficjentów powinno ono obejmować i na jakich warunkach?"
     en: "If your view is that a legislative solution is needed, what would be its main elements? Which activities of the beneficiary institutions should be covered and under what conditions?"
+    it: "Se il vostro punto di vista è che sia necessaria una soluzione legislativa, quale sarebbero i suoi elementi principali? Quali attività delle istituzioni beneficiarie dovrebbero essere coperti e in quali condizioni?"
   to: everyone
   type: open_question
   odf:
@@ -1024,6 +1040,7 @@
   text:
     pl: "Jeśli uważają Państwo, że potrzebne jest rozwiązanie innego rodzaju, jakie ono by było?"
     en: "If your view is that a different solution is needed, what would it be?"
+    it: Se il vostro punto di vista è che sia necessaria una soluzione diversa, quale sarebbe?
   to: everyone
   type: open_question
   odf:
@@ -1040,6 +1057,9 @@
     en: |
       (a) [In particular if you are an end user/consumer or an institutional user:] Have you experienced specific problems when trying to use works or other subject matter in the context of research projects/activities, including across borders?
       (b) [In particular if you are a right holder:] Have you experienced specific problems resulting from the way in which works or other subject-matter are used in the context of research projects/activities, including across borders?
+    it: |
+      (a) [In particolare, se siete un utente finale/consumatore o un utente istituzionale:] Avete riscontrato problemi specifici utilizzando opere o altro materiale nel contesto di progetti/attività di ricerca? Anche a livello transfrontaliero?
+      (b) [In particolare, se siete titolare del diritto:] Avete riscontrato problemi specifici derivanti dal modo in cui lavori o altro materiale vengono utilizzati nel contesto di progetti/attività di ricerca? Anche a livello transfrontaliero?
   to: switch
   type: multiple_choice
   options:
@@ -1068,6 +1088,7 @@
   text:
     pl: "Jeśli pojawiają się problemy, w jaki sposób najlepiej je rozwiązać?"
     en: "If there are problems, how would they best be solved?"
+    it: Se ci fossero problemi, come dovrebbero venir risolti?
   to: everyone
   type: open_question
   odf:
@@ -1080,6 +1101,7 @@
   text:
     pl: "Jakie mechanizmy istniejące w krajach członkowskich ułatwiają korzystanie z treści w celach badawczych? W jakim stopniu są one skuteczne?"
     en: What mechanisms exist in the Member States to facilitate the use of content for research purposes? How successful are they?
+    it: "Quali meccanismi esistono negli Stati membri per facilitare l'utilizzo dei contenuti per scopi di ricerca? Quanto sono utili?"
   to: everyone
   type: open_question
   odf:
@@ -1098,6 +1120,10 @@
       (a) [In particular if you are a person with a disability or an organisation representing persons with disabilities:] Have you experienced problems with accessibility to content, including across borders, arising from Member States’ implementation of this exception?
       (b) [In particular if you are an organisation providing services for persons with disabilities:] Have you experienced problems when distributing/communicating works published in special formats across the EU?
       (c) [In particular if you are a right holder:] Have you experienced specific problems resulting from the application of limitations or exceptions allowing for the distribution/communication of works published in special formats, including across borders?
+    it: |
+      (a) [In particolare, se siete diversamente abili o un'organizzazione che rappresenta persone con disabilità:] Avete riscontrato problemi con l'accessibilità ai contenuti, anche a livello transfrontaliero, derivanti dall'attuazione di tali eccezioni negli Stati membri?
+      (b) [In particolare se siete un'organizzazione che fornisce servizi per disabili:] Avete riscontrato problemi durante la distribuzione e/o la comunicazione di opere pubblicate in formati speciali in UE?
+      (c) [In particolare, se siete titolare del diritto:] Avete riscontrato problemi specifici derivanti dall'applicazione delle limitazioni o delle eccezioni che consentono la distribuzione/comunicazione di opere pubblicate in formati speciali? Anche a livello transfrontaliero?
   to: switch
   type: multiple_choice
   options:
@@ -1125,6 +1151,7 @@
   text:
     pl: "Jeśli pojawiają się problemy, co można zrobić, aby poprawić dostępność?"
     en: "If there are problems, what could be done to improve accessibility?"
+    it: "Se ci fossero problemi, cosa si potrebbe fare per migliorare l'accessibilità?"
   to: everyone
   type: open_question
   odf:
@@ -1137,6 +1164,7 @@
   text:
     pl: "Jakie istnieją mechanizmy rynkowe dostępu do treści? Czy i jak są skuteczne? "
     en: What mechanisms exist in the market place to facilitate accessibility to content? How successful are they?
+    it: "Quali meccanismi esistono sul mercato per facilitare l'accessibilità dei contenuti? Quanto sono utili?"
   to: everyone
   type: open_question
   odf:
@@ -1155,6 +1183,10 @@
       (a) [In particular if you are an end user/consumer or an institutional user:] Have you experienced obstacles, linked to copyright, when trying to use text or data mining methods, including across borders?
       (b) [In particular if you are a service provider:] Have you experienced obstacles, linked to copyright, when providing services based on text or data mining methods, including across borders?
       (c) [In particular if you are a right holder:] Have you experienced specific problems resulting from the use of text and data mining in relation to copyright protected content, including across borders?
+    it: |
+      (a) [In particolare, se siete un utente finale/consumatore o un utente istituzionale:] Avete incontrato ostacoli legati al diritto d'autore utilizzando testo o metodi di data mining? Anche a livello transfrontaliero?
+      (b) [In particolare, se siete un fornitore di servizi:] Avete incontrato ostacoli legati al diritto d'autore prestando servizi basati su testo o tecniche di data mining? Anche a livello transfrontaliero?
+      (c) [In particolare, se siete un titolare del diritto:] Avete riscontrato problemi specifici derivanti dall'uso del testo e data mining in relazione ai contenuti protetti da copyright? Anche a livello transfrontaliero?
   to: switch
   type: multiple_choice
   options:
@@ -1191,6 +1223,7 @@
   text:
     pl: "Jeśli pojawiają się problemy, w jaki sposób najlepiej je rozwiązać?"
     en: "If there are problems, how would they best be solved?"
+    it: Se ci fossero problemi, come dovrebbero venir risolti?
   to: everyone
   type: open_question
   odf:
@@ -1203,6 +1236,7 @@
   text:
     pl: "Jeżeli w Państwa opinii wymagane jest rozwiązanie ustawowe, jakie powinny być jego główne elementy? Jakie działania powinny być nim objęte i pod jakimi warunkami?"
     en: "If your view is that a legislative solution is needed, what would be its main elements? Which activities should be covered and under what conditions?"
+    it: Se il vostro punto di vista è che sia necessaria una soluzione legislativa, quale sarebbero i suoi elementi principali? Quali attività dovrebbero essere coperte e in quali condizioni?
   to: everyone
   type: open_question
   odf:
@@ -1215,6 +1249,7 @@
   text:
     pl: "Jeżeli w Państwa opinii konieczne jest inne rozwiązanie, to jakie ono powinno być?"
     en: "If your view is that a different solution is needed, what would it be?"
+    it: Se il vostro punto di vista è che sia necessaria una soluzione diversa, quale sarebbe?
   to: everyone
   type: open_question
   odf:
@@ -1227,6 +1262,7 @@
   text:
     pl: "Czy są inne kwestie, niezwiązane z prawem autorskim, które stanowią przeszkody w korzystaniu z metod maszynowej analizy tekstów i danych?"
     en: "Are there other issues, unrelated to copyright, that constitute barriers to the use of text or data mining methods?"
+    it: Ci sono altre questioni, non correlate al diritto d'autore, che costituiscono ostacoli all'utilizzo di testo o di tecniche di data mining?
   to: everyone
   type: open_question
   odf:
@@ -1249,6 +1285,10 @@
       (a) [im Besonderen, wenn du Privatanwender/Konsument bist:] Hattest du schon Probleme, als du versuchtest, schon existierende Arbeiten  oder andere Angelegenheiten für neue Veröffentlichungen zu verwenden, auch über Grenzen hinweg?
       (b) [im Besonderen, wenn du ein Diensteanbieter bist:]  Hast du schon von Problemen von Nutzern erfahren, die schon existierende Arbeiten für neue Veröffentlichungen verwendet haben, auch grenzüberschreitend und über deine Dienste?
       (c) [im Besonderen, wenn du ein Rechteinhaber bist:] Hast du schon Probleme bei Veröffentlichungen basierend auf schon existierenden Arbeiten durch User, auch über Grenzen hinweg, festgestellt?
+    it: |
+      (a) [In particolare, se siete un utente finale/consumatore:] Avete riscontrato problemi utilizzando opere pre-esistenti o altro materiale per diffondere nuovi contenuti su Internet? Anche a livello transfrontaliero?
+      (b) [In particolare, se siete un fornitore di servizi:] Avete riscontrato problemi quando un utente pubblica/diffonde nuovi contenuti basati su opere pre-esistenti o altro materiale attraverso il vostro servizio? Anche a livello transfrontaliero?
+      (c) [In particolare, se siete titolare del diritto:] Avete riscontrato problemi derivanti dalla modalità di utilizzo degli utenti delle opere preesistenti o altro materiale per diffondere nuovi contenuti su Internet? Anche a livello transfrontaliero?
   to: switch
   type: multiple_choice
   options:
@@ -1280,6 +1320,9 @@
     en: |
       (a) [In particular if you are an end user/consumer or a right holder:] Have you experienced problems when trying to ensure that the work you have created (on the basis of pre-existing works) is properly identified for online use? Are proprietary systems sufficient in this context?
       (b) [In particular if you are a service provider:] Do you provide possibilities for users that are publishing/disseminating the works they have created (on the basis of pre-existing works) through your service to properly identify these works for online use?
+    it: |
+      (a) [In particolare, se siete un utente finale/consumatore o titolari del diritto:] Avete riscontrato problemi assicurandovi che l'opera di vostra creazione (sulla base di opere preesistenti) venga correttamente identificata per l'uso online ? I sistemi proprietari sono sufficienti in questo contesto?
+      (b) [In particolare, se siete un fornitore di servizi:] Offrite possibilità per gli utenti che pubblicano/diffondono opere di loro creazione (sulla base di opere già esistenti), attraverso i vostri servizi, di identificarle correttamente per l'utilizzo online?
   to: switch
   type: multiple_choice
   options:
@@ -1320,6 +1363,9 @@
     en: |
       (a) [In particular if you are an end user/consumer or a right holder):] Have you experienced problems when trying to be remunerated for the use of the work you have created (on the basis of pre-existing works)?
       (b) [In particular if you are a service provider:] Do you provide remuneration schemes for users publishing/disseminating the works they have created (on the basis of pre-existing works) through your service?
+    it: |
+      (a) [In particolare, se siete un utente finale/consumatore o titolare del diritto):] Avete riscontrato problemi nel venir retribuiti per l'utilizzo dell'opera di vostra creazione (sulla base di opere preesistenti)?
+      (b) [In particolare, se siete un fornitore di servizi:] Fornite sistemi di remunerazione per gli utenti che pubblicano/diffondono opere di loro creazione (sulla base di opere già esistenti) attraverso il vostro servizio?
   to: switch
   type: multiple_choice
   options:
@@ -1356,6 +1402,7 @@
   text:
     pl: "Jeśli pojawiają się problemy, w jaki sposób najlepiej je rozwiązać?"
     en: "If there are problems, how would they best be solved?"
+    it: Se ci fossero problemi, come dovrebbero venir risolti?
   to: everyone
   type: open_question
   odf:
@@ -1368,6 +1415,7 @@
   text:
     pl: "Jeśli uważają Państwo, że potrzebne jest rozwiązanie ustawowe, jakie byłyby jego główne elementy?"
     en: "If your view is that a legislative solution is needed, what would be its main elements? Which activities should be covered and under what conditions?"
+    it: Se il vostro punto di vista è che sia necessaria una soluzione legislativa, quale sarebbero i suoi elementi principali? Quali attività dovrebbero essere coperte e in quali condizioni?
   to: everyone
   type: open_question
   odf:
@@ -1380,6 +1428,7 @@
   text:
     pl: "Jeśli uważają Państwo, że potrzebne jest rozwiązanie innego rodzaju, jakie ono by było?"
     en: "If your view is that a different solution is needed, what would it be?"
+    it: Se il vostro punto di vista è che sia necessaria una soluzione diversa, quale sarebbe?
   to: everyone
   type: open_question
   odf:
@@ -1393,6 +1442,7 @@
     pl: "Czy według Państwa istnieje potrzeba wyjaśnienia na poziomie europejskim zakresu i zastosowania wyjątków dotyczących kopiowania na użytek prywatny i wyjątków reprograficznych w środowisku cyfrowym?"
     en: "In your view, is there a need to clarify at the EU level the scope and application of the private copying and reprography exceptions in the digital environment?"
     de: "Ist es aus deiner Sicht notwendig, auf EU-Ebene die Reichweite und den Zweck der Ausnahmeregelungen für Privatkopien und Vervielfältigungen im digitalen Bereich zu klären?"
+    it: Secondo voi, vi è la necessità di chiarire a livello comunitario la portata e l'applicazione dell'eccezione di copia privata e reprografia nell'ambiente digitale?
   to: everyone
   type: multiple_choice
   options:
@@ -1429,6 +1479,7 @@
   text:
     pl: "Czy kopie cyfrowe sporządzane przez użytkowników końcowych na własne potrzeby w ramach usługi autoryzowanej przez posiadaczy praw, gdy szkoda dla uprawnionych jest minimalna, powinny być objęte systemem opłat rekompensacyjnych (private copying levies)?"
     en: "Should digital copies made by end users for private purposes in the context of a service that has been licensed by rightholders, and where the harm to the rightholder is minimal, be subject to private copying levies?"
+    it: Copie digitali attuate da utenti finali per scopi privati ​​nel contesto di un servizio licenziato dai titolari del diritto, e dove il danno per il titolare dei diritti sia minimo, dovrebbero essere oggetto di prelievi per copie private?
   to: everyone
   type: multiple_choice
   options:
@@ -1465,6 +1516,7 @@
   text:
     pl: "W jaki sposób zmiany w systemie opłat poprzez zastosowanie ich do usług online (np. usług wykorzystująca chmurę obliczeniową, pozwalając użytkownikom korzystać z kopii na różnych urządzeniach) wpłynęłyby na rozwój i funkcjonowanie z jednej strony nowych modeli biznesowych, a z drugiej strony na przychody uprawnionych?"
     en: "How would changes in levies with respect to the application to  online services (e.g. services based on cloud computing  allowing, for instance, users to have copies on different devices) impact the development and functioning of new business models on the one hand and rightholders’ revenue on the other?"
+    it: Che impatto avrebbero variazioni sui prelievi rispetto all'applicazione di servizi online (es. servizi basati sul cloud computing che consente, per esempio, agli utenti di possedere copie su dispositivi diversi) sullo sviluppo e il funzionamento di nuovi modelli di business da un lato e le entrate dei titolari dall'altro?
   to: everyone
   type: open_question
   odf:
@@ -1477,6 +1529,7 @@
   text:
     pl: "Jaką wartość dodaną stanowi umieszczanie informacji o opłatach na fakturach za produkty, których opłaty dotyczą?"
     en: Would you see an added value in making levies visible on the invoices for products subject to levies?
+    it: Vorreste vedere un valore aggiunto durante i prelievi indicato sulle fatture per i prodotti soggetti a prelievi?
   to: everyone
   type: multiple_choice
   options:
@@ -1513,6 +1566,7 @@
   text:
     pl: "Czy spotkali się Państwo z transakcją trasgraniczną, której wynikiem było uiszczenie nienależnych opłat lub podwójne uiszczenie tej samej opłaty lub inne przeszkody w wolnym obrocie dóbr i usług?"
     en: "Have you experienced a situation where a cross-border transaction resulted in undue levy payments, or duplicate payments of the same levy, or other obstacles to the free movement of goods or services?"
+    it: Vi siete trovati nella situazione in cui una transazione transfrontaliera abbia portato a pagamenti indebiti, o pagamenti duplicati dello stesso prelievo, o altri ostacoli alla libera circolazione di beni o servizi?
   to: everyone
   type: multiple_choice
   options:
@@ -1548,6 +1602,7 @@
   text:
     pl: "Jaki procent produktów objętych opłatami jest sprzedawany osobom innym niż osobom, których naturalnym celem ewidentnie nie jest kopiowanie na użytek własny? Czy którekolwiek z tych transakcji skutkuje nienależnymi płatnościami? Proszę szczegółowo wyjaśnić, podając przykłady (typ produktów, rodzaj transakcji, udziałowcy, etc.)"
     en: "What percentage of products subject to a levy is sold to persons other than natural persons for purposes clearly unrelated to private copying? Do any of those transactions result in undue payments? Please explain in detail the example you provide (type of products, type of transaction, stakeholders, etc.)."
+    it: Qual è la percentuale di prodotti soggetti a prelievo che viene venduto a persone diverse da persone fisiche per fini chiaramente estranei alla copia privata? Alcune di tali operazioni si traducono in pagamenti indebiti? Si prega di indicare in dettaglio esempi da voi forniti (tipo di prodotti, tipo di operazione, parti interessate, ecc...)
   to: everyone
   type: open_question
   odf:
@@ -1560,6 +1615,7 @@
   text:
     pl: "Jeśli zdarzają się takie nienależne płatności, jakiego procentu sprzedaży to dotyczy? W jakim stopniu zwolnienia  z opłat a priori oraz/lub systemy refundacji ex post istniejące w niektórych krajach członkowskich stanowią środek zaradczy w takich sytuacjach?"
     en: "Where such undue payments arise, what percentage of trade do they affect? To what extent could a priori exemptions and/or ex post reimbursement schemes existing in some Member States help to remedy the situation?"
+    it: Dove nascono tali pagamenti indebiti? Qual è la percentuale del commercio interessato? In che misura esenzioni a priori e/o sistemi di rimborso ex post, esistenti in alcuni Stati membri, sarebbero d'aiuto per porre rimedio alla situazione?
   to: everyone
   type: open_question
   odf:
@@ -1572,6 +1628,7 @@
   text:
     pl: "Jeśli zidentyfikowali Państwo problemy związane z obecnymi funkcjonowaniem systemu opłat, jakie widzą Państwo rozwiązania?"
     en: "If you have identified specific problems with the current functioning of the levy system, how would these problems best be solved?"
+    it: Se avete individuato problemi specifici con l'attuale funzionamento del sistema di prelievi, come potrebbero essere risolti?
   to: everyone
   type: open_question
   odf:
@@ -1585,6 +1642,7 @@
     pl: "[W szczególności, jeśli są Państwo autorami/wykonawcami:] Jaki jest najlepszy mechanizm (lub zestaw mechanizmów), który zapewniłby otrzymanie przez Państwa właściwego wynagrodzenia za wykorzystanie Pastwa utworów lub wykonań?"
     en: What is the best mechanism (or combination of mechanisms) to ensure that you receive an adequate remuneration for the exploitation of your works and performances?
     de: "Welche Mechanismen (auch Kombinationen aus verschiedenen Mechanismen) stellen ein passendes Entgelt für die Nutzung deiner Arbeiten und Leistungen am besten sicher?"
+    it: Qual è il miglior sistema (o combinazione di sistemi) per assicurarsi di ricevere una remunerazione adeguata per lo sfruttamento delle proprie opere e performance?
   to: author/performer
   type: open_question
   odf:
@@ -1597,6 +1655,7 @@
   text:
     pl: "Czy istnieje potrzeba działania na poziomie europejskim (na przykład w celu  zakazania stosowania określonych postanowień umownych)?"
     en: Is there a need to act at the EU level (for instance to prohibit certain clauses in contracts)?
+    it: C'è necessità di agire a livello comunitario (ad esempio vietare determinate clausole nei contratti)?
   to: everyone
   type: multiple_choice
   options:
@@ -1633,6 +1692,7 @@
     pl: "Jeśli uważają Państwo obecne zasady za nieskuteczne, jak należałoby uregulować zidentyfikowane nieprawidłowości?"
     en: "If you consider that the current rules are not effective, what would you suggest to address the shortcomings you identify?"
     de: "Wenn du denkst, die geltenden Vorschriften wären nicht wirksam? Wie würdest du die von dir erkannten Defizite beheben?"
+    it: Se considerate che le norme attuali non siano efficaci, cosa suggerireste per affrontare le lacune rilevate?
   to: everyone
   type: open_question
   odf:
@@ -1645,6 +1705,7 @@
   text:
     pl: "Czy system sankcji cywilnych w UE powinien być bardziej wydajny w przypadku naruszeń dokonanych w celu komercyjnym?"
     en: Should the civil enforcement system in the EU be rendered more efficient for infringements of copyright committed with a commercial purpose?
+    it: Il sistema esecutivo civile dell'UE dovrebbe esser reso più efficiente nei confronti delle violazioni di copyright commesse a fini commerciali?
   to: everyone
   type: multiple_choice
   options:
@@ -1681,6 +1742,7 @@
   text:
     pl: "Czy obecny system prawny jest wystarczająco jasny, aby pozwolić na zadowalające zaangażowanie pośredników (takich jak dostawcy usług internetowych, brokerzy reklamowi, dostawcy usług płatniczych, rejestratorzy domen, itd.) w ograniczanie naruszeń prawa autorskiego dokonywanych w celach komercyjnych? Jeżeli nie, to jakie środki byłyby przydatne w celu usprawnienia współpracy pośredników?"
     en: "In particular, is the current legal framework  clear enough to allow for  sufficient involvement of intermediaries (such as Internet service providers, advertising brokers, payment service providers, domain name registrars, etc.) in inhibiting online copyright infringements with a commercial purpose? If not, what measures would be useful to foster the cooperation of intermediaries?"
+    it: In particolare, l'attuale quadro normativo è sufficientemente chiaro per consentire un adeguato coinvolgimento di intermediari (come fornitori di servizi Internet, broker pubblicitari, fornitori di servizi di pagamento, registrar di nomi di dominio, ecc...) per inibire violazioni di copyright con scopo commerciale? In caso negativo, quali misure sarebbe utile attuare per favorire la cooperazione degli intermediari?
   to: everyone
   type: open_question
   odf:
@@ -1694,6 +1756,7 @@
     pl: "Czy obecny system egzekwowania odpowiedzialności cywilnej zapewnia odpowiednią równowagę pomiędzy prawem do poszanowania prawa autorskiego oraz innych praw, jak ochrona życia prywatnego i danych osobowych?"
     en: Does the current civil enforcement framework ensure that the right balance is achieved between the right to have one’s copyright respected and other rights such as the protection of private life and protection of personal data?
     de: "Stellen die aktuellen zivilrechtlichen Durchsetzungs-Voraussetzungen sicher, dass das richtige Gleichgewicht zwischen dem Urheberrecht und anderen Rechten, wie dem Schutz des Privatlebens und der persönlichen Daten, zustande kommt?"
+    it:  Il quadro esecutivo civile attuale assicura che un giusto equilibrio tra il diritto di vedere il proprio copyright rispettato e gli altri diritti, quali la tutela della vita privata e protezione dei dati personali?
   to: everyone
   type: multiple_choice
   options:
@@ -1731,6 +1794,7 @@
     pl: "Czy UE powinna starać się o wprowadzenie jednolitego prawa autorskiego UE jako sposobu na ustanowienie spójnych ram dla uprawnień i wyjątków od prawa autorskiego na terenie całej UE, jak również jednolitych ram egzekwowania praw?"
     en: "Should the EU pursue the establishment of a single EU Copyright Title, as a means of establishing a consistent framework for rights and exceptions to copyright across the EU, as well as a single framework for enforcement?"
     de: Soll die EU ein gemeinsames europäisches Urheberrecht verabschieden, das in allen Ländern die gleichen Regeln für Rechte, Ausnahmen und Durchsetzung festlegt?
+    it: Si dovrebbe perseguire la creazione di un unico titolo di copyright EU come mezzo per stabilire un quadro coerente per i diritti e le eccezioni al diritto d'autore in tutta l'UE, nonché un quadro unico per la sua esecuzione?
   to: everyone
   type: multiple_choice
   options:
@@ -1752,6 +1816,7 @@
     pl: "Czy to powinien być kolejny krok w rozwoju prawa autorskiego w UE? Czy obecny poziom zróżnicowania prawnego wśród państw członkowskich oznacza, że jest to projekt długoterminowy?"
     en: Should this be the next step in the development of copyright in the EU? Does the current level of difference among the Member State legislation mean that this is a longer term project?
     de: Sollte die Schaffung eines gemeinsamen europäischen Urheberrechts der nächste Schritt der EU in Sachen Urheberrecht sein? Oder muss man das wegen der großen Unterschiede in den Mitgliedstaaten langsam angehen lassen?
+    it:  Dovrebbe essere il prossimo passo nello sviluppo del diritto d'autore nella UE? Le attuali differenze tra le leggi degli Stati membri suggeriscono che sia un progetto a lungo termine?
   to: everyone
   type: open_question
   odf:
@@ -1765,6 +1830,7 @@
     pl: "Czy istnieją inne istote kwestie związane z europejskim systemem prawnoautorskim? Proszę uzasadnić i wskazać, jak kwestie te powinny być uregulowane."
     en: Are there any other important matters related to the EU legal framework for copyright? Please explain and indicate how such matters should be addressed.
     de: "Gibt es weitere wichtige Dinge im Zusammenhang mit der europäischen Rechtslage im Bezug auf das Urheberrecht?  Bitte erklären und darauf hinweisen, wie man diese Fälle ansprechen könnte"
+    it: Ci sono altre questioni importanti legate al quadro giuridico dell'UE per il copyright? Spiegate e indicate come tali questioni debbano essere affrontate.
   to: everyone
   type: open_question
   odf:
